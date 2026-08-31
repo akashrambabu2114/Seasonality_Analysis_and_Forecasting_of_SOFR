@@ -1,7 +1,7 @@
 # Seasonality-Analysis-and-Forecasting-of-SOFR-Fix
 This project provides a comprehensive analysis of the Secured Overnight Financing Rate (SOFR), including an examination of its seasonal patterns and the development of forecasting models.
 
-### What is SOFR?
+### What is SOFR? 
 
 The **Secured Overnight Financing Rate (SOFR)** is a benchmark interest rate that represents the cost of borrowing cash overnight, secured by U.S. Treasury securities. It is calculated as a volume-weighted median of transaction-level data from the Treasury repurchase (repo) market.
 
